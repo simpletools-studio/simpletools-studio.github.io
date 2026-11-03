@@ -7,8 +7,8 @@ The public website for SimpleTools, an independent collection of Unity packages.
 ## Packages
 
 - **SimpleTransform** — Scene-view authoring for position, rotation, and scale sequences, Bezier paths, easing, events, and moving platforms. In development; public repository links are not yet available.
-- **SimpleBlend** — Vertex painting and URP material-layer blending. [Repository](https://github.com/DorukTan/SimpleBlend).
-- **Supabase for Unity** — A Unity C# client for authentication, database, realtime, storage, and Edge Functions. [Repository](https://github.com/DorukTan/unity-supabase).
+- **SimpleBlend** — Vertex painting and URP material-layer blending. [Repository](https://github.com/simpletools-studio/SimpleBlend).
+- **Supabase for Unity** — A Unity C# client for authentication, database, realtime, storage, and Edge Functions. [Repository](https://github.com/simpletools-studio/unity-supabase).
 
 The site explains use cases, included capabilities, compatibility, and requirements. Detailed views support direct links, keyboard navigation, Escape, and browser history. No videos or interactive demos are included.
 
