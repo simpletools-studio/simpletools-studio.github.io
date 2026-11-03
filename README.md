@@ -2,7 +2,7 @@
 
 The public website for SimpleTools, an independent collection of Unity packages.
 
-**Website:** https://doruktan.github.io/simple-tools-webpage/
+**Website:** https://simpletools-studio.github.io/
 
 ## Packages
 
