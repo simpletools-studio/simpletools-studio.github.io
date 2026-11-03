@@ -1,0 +1,18 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Earlier visual experiments and demo media, retained locally but not published
+assets/cover-*.svg
+assets/simpletransform-path.*
+assets/og-cover.jpg
+
+# Temporary files and credentials
+.env
+.env.*
+*.log
+work/
+outputs/
